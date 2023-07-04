@@ -19,9 +19,19 @@
 </p>
 <p align="center">Tecnologias: </p>
 <p align="center">
+  <a href="" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/java.png"  alt="RomelT" width="25px"/>
+  </a>
+  <a href="" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/php.png"   alt="RomelT" height="28px" width="42px"/>
+  </a>
+  <a href="" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/mysql.png" alt="RomelT" width="40px"/>
+  </a>
+  <a href="" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/html.png"  alt="RomelT" height="38px" weight="38px"/>
+  </a>
+  <a href="" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/css.png"   alt="RomelT" height="38px" weight="38px"/>
+  </a>
 </p>
