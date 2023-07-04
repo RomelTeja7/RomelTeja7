@@ -4,16 +4,16 @@
 <p align="center">Soy una persona con muchas pasiones y sueños, con muchas ganas de superarme dia a dia.</p>
 <p align="center">Contactame: </p>
 <p align="center">
-   <a href="https://twitter.com/Tejad07" target="blank">
+   <a href="https://twitter.com/Tejad07" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/twitter.png" alt="RomelT" height="30px" width="38px"/>
    </a>
-   <a href="https://www.instagram.com/romelteja7/" target="blank">
+   <a href="https://www.instagram.com/romelteja7/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/instagram.png" alt="RomelT" height="32px" width="32px"/>
   </a>
-   <a href="www.linkedin.com/in/romelteja7" target="blank">
+   <a href="www.linkedin.com/in/romelteja7" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/linkedin.png" alt="RomelT" height="32px" width="32px"/>
   </a>
-     <a href="" target="blank">
+     <a href="" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/telegram.png" alt="RomelT" height="32px" width="32px"/>
   </a>
 </p>
