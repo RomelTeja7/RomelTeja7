@@ -1,6 +1,6 @@
 ![wa - Copy2](https://github.com/RomelTeja7/RomelTeja7/assets/118077551/e10ac388-eb32-40e4-92c4-a3a64bba479e)
 <h1 align="center">Hola 👋, Soy Romel Tejada</h1>
-<h3 align="center">Desarrollador Jr de 20 años y hace 3 de ellos estudiando y poniendo en practica la programacion y sus derivados.</h3>
+<h3 align="center">Desarrollador Jr de 21 años y hace 3 de ellos estudiando y poniendo en practica la programacion y sus derivados.</h3>
 <p align="center">Soy una persona con muchas pasiones y sueños, con muchas ganas de superarme dia a dia.</p>
 <p align="center">Contactame: </p>
 <p align="center">
