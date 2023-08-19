@@ -4,24 +4,23 @@
 <p align="center">Soy una persona con muchas pasiones y sueños, con muchas ganas de superarme dia a dia.</p>
 <p align="center">Contactame: </p>
 <p align="center">
+   <a href="https://www.linkedin.com/in/romelteja7" target="_blank">
+   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/linkedin.png" alt="RomelT" height="32px" width="32px"/>
+   </a>
    <a href="https://twitter.com/Tejad07" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/twitter.png" alt="RomelT" height="30px" width="38px"/>
+   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/twitter.png" alt="RomelT" height="30px" width="38px"/>
    </a>
    <a href="https://www.instagram.com/romelteja7/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/instagram.png" alt="RomelT" height="32px" width="32px"/>
-  </a>
-   <a href="https://www.linkedin.com/in/romelteja7" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/linkedin.png" alt="RomelT" height="32px" width="32px"/>
-  </a>
-     <a href="" target="_blank" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/telegram.png" alt="RomelT" height="32px" width="32px"/>
-  </a>
+   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/instagram.png" alt="RomelT" height="32px" width="32px"/>
+   </a>
 </p>
 <p align="center">Tecnologias: </p>
 <p align="center">
   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/java.png"  alt="RomelT" width="25px"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/php.png"   alt="RomelT" height="28px" width="42px"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/mysql.png" alt="RomelT" width="40px"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/mongodb.png" alt="RomelT" width="36px"/>
+  <img align="center" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" alt="RomelT" width="58px"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/html.png"  alt="RomelT" height="38px" weight="38px"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/css.png"   alt="RomelT" height="38px" weight="38px"/>
 </p>
