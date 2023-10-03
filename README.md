@@ -5,9 +5,10 @@
 <p align="center">Contactame: </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/romelteja7" target="_blank">
+      
    <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/linkedin.png" alt="RomelT" height="32px" width="32px"/>
    </a>
-   <a href="mailito:romelteja7.dev@gmail.com" target="_blank">
+   <a href="mailto:romelteja7.dev@gmail.com" target="_blank">
    <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/gmail.png" alt="RomelT" height="28px" width="38px"/>
    </a>
 </p>
