@@ -8,11 +8,7 @@
    <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/linkedin.png" alt="RomelT" height="32px" width="32px"/>
    </a>
 </p>
-<p align="center">
-      <a href="[https://www.linkedin.com/in/romelteja7](https://www.instagram.com/rteja.dev/)" target="_blank">
-   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/instagram.png" alt="RomelT" height="32px" width="32px"/>
-   </a>
-   </p>
+
 <p align="center">Tecnologias: </p>
 <p align="center">
   <img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/java.png"  alt="RomelT" width="25px"/>
